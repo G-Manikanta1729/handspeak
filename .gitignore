@@ -1,0 +1,11 @@
+venv/
+Lib/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.dll
+*.so
+*.dylib
+.env
+.env.*
